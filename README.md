@@ -1,7 +1,7 @@
 ## Background Information
 M2S app will recieve data from the LSMT machine learning model. LSMT 
-will send a text file containing one of the 30 gestures from the MS2 
-armband. The MS2 app will output to the screen the gesture word and 
+will send a text file containing one of the 30 gestures from the M2S 
+armband. The M2S app will output to the screen the gesture word and 
 verbalize the word to the user.
 
 ## Before Committing...
@@ -38,9 +38,9 @@ Use comments to describe why you are doing something.
 9.  Use your camera's device to scan the QR code on your terminal screen
     to open and run the app
 
-(Disclaimer: this tutorial may not fully cover all the commands necessary 
-to run the app please refer to the links below or ask Vi Dang for additional 
-assistance) 
+(Disclaimer: this tutorial may not fully cover all the commands 
+necessary to run the app please refer to the links below or ask M2S 
+leads for additional assistance) 
 
 ReactNative Website:
 **https://reactnative.dev/docs/environment-setup#:~:text=Running%20your%20React%20Native%20application,the%20default%20iOS%20Camera%20app.**
